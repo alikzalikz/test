@@ -1,0 +1,4 @@
+baseURL = 'http://alikz.net/'
+languageCode = 'fa-ir'
+title = 'alikz.NET'
+theme = 'ananke'
