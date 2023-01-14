@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/Ali/WorkSpace/Github/test/alikz",
+	"sourceRoot": "C:/Users/Ali/WorkSpace/Github/test",
 	"sources": [
 		"ananke/css/main.css"
 	],
